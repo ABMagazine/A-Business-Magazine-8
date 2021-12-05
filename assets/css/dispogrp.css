@@ -629,7 +629,7 @@ header
 
 
 section.puno {
-  background-image: url(./images/Puno.png);
+  background-image: url(assets/images/Puno.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -639,7 +639,7 @@ section.puno {
 }
 
   section.romeo {
-  background-image: url(./images/Romeo.png);
+  background-image: url(assets/images/Romeo.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -649,7 +649,7 @@ section.puno {
 }
 
 section.carag {
-  background-image: url(./images/Carag.png);
+  background-image: url(assets/images/Carag.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -659,7 +659,7 @@ section.carag {
 }
 
 section.peralta {
-  background-image: url(./images/Peralta.jpeg);
+  background-image: url(assets/images/Peralta.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -669,7 +669,7 @@ section.peralta {
 }
 
 section.sasi {
-  background-image: url(./images/Sasi.jpeg);
+  background-image: url(assets/images/Sasi.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
