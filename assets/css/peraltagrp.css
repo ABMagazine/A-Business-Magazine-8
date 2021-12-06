@@ -629,7 +629,7 @@ header
 
 
 section.heading-page1 {
-  background-image: url(../images/URHEADER.JPG);
+  background-image: url(./images/URHEADER.JPG);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -639,7 +639,7 @@ section.heading-page1 {
 }
 
 section.heading-page2 {
-  background-image: url(../images/PALHEADER.JPG);
+  background-image: url(./images/PALHEADER.JPG);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -649,7 +649,7 @@ section.heading-page2 {
 }
 
 section.heading-page3 {
-  background-image: url(../images/PLDTHEADER.JPG);
+  background-image: url(./images/PLDTHEADER.JPG);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -659,7 +659,7 @@ section.heading-page3 {
 }
 
 section.heading-page4 {
-  background-image: url(../images/JOLLIBEEHEADER.JPG);
+  background-image: url(./images/JOLLIBEEHEADER.JPG);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -669,7 +669,7 @@ section.heading-page4 {
 }
 
 section.heading-page5 {
-  background-image: url(../images/BDOHEADER.JPG);
+  background-image: url(./images/BDOHEADER.JPG);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
